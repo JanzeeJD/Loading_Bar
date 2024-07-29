@@ -6,7 +6,7 @@ let idx = 0;
 updateNum()
 
 function updateNum(){
-  counter.innerHTML = "🏃‍♀️‍➡️ " + idx+ "%"
+  counter.innerHTML = "🏃‍♂️‍➡️ " + idx+ "%"
   barEl.style.width = idx + "%" 
   idx++
   if(idx<101){
