@@ -12,6 +12,7 @@ body{
   text-align: center;
   width: 400px;
   position: relative;
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.1);
 }
 .counter{
   font-size: 40px;
