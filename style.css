@@ -33,4 +33,5 @@ body{
   width: 0%;
   border-radius: 5px;
   border: none;
+  transition: width 0.3s ease-in-out;
 }
